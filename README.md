@@ -1,1 +1,1 @@
-# inside-the-jvm
+# Inside the Java Virtual Machine
